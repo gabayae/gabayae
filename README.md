@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yaé Ulrich Gaba,
+### Hi there 👋, I'm [`Yaé Ulrich Gaba`](https://www.researchgate.net/profile/Yae-Ulrich-Gaba),
 
 A pure mathematician interested in **computation**. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
