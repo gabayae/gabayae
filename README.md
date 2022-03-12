@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about how [Topology](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
 - 📫 How to reach me: yaeulrich.gaba@gmail.com. You can also connect with me on my [LinkedIn](https://www.linkedin.com/in/gabayae/).
 
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=gabayae&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
