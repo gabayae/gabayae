@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners.
 - 🤔 I’m looking for help with setting up an AI start-up which will host an incubator.
 - 💬 Ask me about how [Topology](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
-- 📫 How to reach me: yaeulrich.gaba@gmail.com. You can also connect with me on my [LinkedIn](https://www.linkedin.com/in/gabayae/).
+
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/gabayae)
+  - 📫 You can also reach me: <yaeulrich.gaba@gmail.com>.
 
 
 
