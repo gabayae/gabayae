@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     - [ ] Theoretical Machine Learning Project
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 🌱 I’m currently learning [** Deep Learning with Tensorflow** ](https://www.tensorflow.org/certificate).
+- 🌱 I’m currently learning [**Deep Learning with Tensorflow**](https://www.tensorflow.org/certificate).
 - 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners.
 - 🤔 I’m looking for help with setting up an AI start-up which will host an incubator.
 - 💬 Ask me about how [Topology](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
