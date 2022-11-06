@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Deep Learning with Tensorflow**](https://www.tensorflow.org/certificate).
 - 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners.
 - 🤔 I’m looking for help with setting up an AI start-up which will host an incubator.
-- 💬 Ask me about how [Topology](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
+- 💬 Ask me about how [**Topology**](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/gabayae)
