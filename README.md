@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 - `Academic profile`
 
+  [![arXiv](https://img.shields.io/badge/arXiv-1903.06582-b31b1b.svg)](https://arxiv.org/a/gaba_y_1.html)
+
   
 - Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/gabayae)
-  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabayae)
+  - :office: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabayae)
   - 📫 You can also reach me: <yaeulrich.gaba@gmail.com>.
 
 
