@@ -11,18 +11,22 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on
-    - [ ] A.I Professional Certification
+    - [ ] A.I. Professional Certification
     - [ ] Deep learning Project
     - [ ] Theoretical Machine Learning Project
 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **Machine Learning and Data Science, Big Data, Cloud**
 - 🌱 I’m currently learning [**Deep Learning with Tensorflow**](https://www.tensorflow.org/certificate).
-- 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners.
+- 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners and intermediate levels.
 - 🤔 I’m looking for help with setting up an AI start-up which will host an incubator.
-- 💬 Ask me about how [**Topology**](https://en.wikipedia.org/wiki/Topological_data_analysis) can be used in the analysis of datasets.
+- 💬 Ask me about how [**Topology & Machine Learning**](https://en.wikipedia.org/wiki/Topological_data_analysis) with a closer look on [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
 
+- `Academic profile`
+
+  
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/gabayae)
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabayae)
   - 📫 You can also reach me: <yaeulrich.gaba@gmail.com>.
 
 
