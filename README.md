@@ -22,17 +22,19 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
     - [ ] A.I. Professional Certification
-    - [ ] Deep learning Project
+    - [ ] TensorFlow Developer Certificate
     - [ ] Theoretical Machine Learning Project
 
 - :bulb: I'm interested in all things data: **Machine Learning and Data Science, Big Data, Cloud**
-- 🌱 I’m currently learning **Deep Learning** with   [![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow)](https://www.tensorflow.org/certificate).
+- 🌱 I’m currently learning **Deep Learning** with  [![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow)](https://www.tensorflow.org/certificate).
 - 👯 I’m looking to collaborate on the design of teaching material in Machine Learning for beginners and intermediate levels.
 - 🤔 I’m looking for help with setting up an AI start-up which will host an incubator.
-- 💬 Ask me about how [**Topology & Machine Learning**](https://en.wikipedia.org/wiki/Topological_data_analysis) with a closer look on [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
+- 💬 Ask me about how [**Topology & Machine Learning**](https://en.wikipedia.org/wiki/Topological_data_analysis) with a closer look on [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) 
 
 
 -----------------------------------------------------------------------------------------
+`Featured e-print`:  *Topological Foundations of Reinforcement Learning*  available here :point_right: [![arXiv](https://img.shields.io/badge/arXiv-2410.03706-b31b1b.svg)](https://arxiv.org/abs/2410.03706#)
+  
 
 `Featured e-print`:  *Quasi-uniform type spaces* available here :point_right: [![arXiv](https://img.shields.io/badge/arXiv-1903.06582-b31b1b.svg)](https://arxiv.org/abs/1903.06582)
   
