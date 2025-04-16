@@ -1,7 +1,7 @@
-#### Hi there 👋, I'm [`Yaé Ulrich Gaba`](https://www.researchgate.net/profile/Yae-Ulrich-Gaba),
+#### Hi there 👋, I'm [`Yaé Ulrich Gaba`](https://orcid.org/0000-0001-8128-9704),
 
 -----------------------------------------------------------------------------------------
-##### Pure mathematician interested in **computation**. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
+##### Pure mathematician interested in **computating**. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
 -----------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------
