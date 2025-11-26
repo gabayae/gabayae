@@ -4,6 +4,10 @@
 <!-- New replacement image -->
 <img align="right" src="https://img.freepik.com/free-photo/artificial-intelligence-concept_23-2148574900.jpg?w=996&t=st=1729001212~exp=1729001812~hmac=a0c30b7f07d42c852af601a95a2038d80bce0f0ad3ae7f7f596ddf16b2c54e21" width="380" />
 
+
+
+
+
 ### 👋 Hi there, I'm **Yaé Ulrich Gaba**
 
 #### 🎩 Pure Mathematician • 🧠 AI Researcher • 💻 Computational Thinker  
@@ -94,6 +98,7 @@ I turn abstract ideas into **robust algorithms**, **teaching materials**, and **
 ---
 
 ## ⚙️ Tools & Technologies
+
 
 ## ⚙️ Tools & Technologies
 
