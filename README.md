@@ -22,18 +22,22 @@
 <br/>
 
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  SIDE IMAGE — HOW TO FIX:                                      ║
-  ║                                                                  ║
-  ║  1. Download your preferred image (person in front of machines) ║
-  ║  2. Add it to your repo: gabayae/gabayae/assets/hero.jpg       ║
-  ║  3. Replace the URL below with:                                 ║
-  ║     https://raw.githubusercontent.com/gabayae/gabayae/main/assets/hero.jpg ║
-  ║                                                                  ║
-  ║  This ensures the image never expires or breaks.                ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  SIDE IMAGE — SELF-HOSTING INSTRUCTIONS                             ║
+  ║                                                                      ║
+  ║  The image below is hosted in YOUR OWN REPO so it never breaks.     ║
+  ║                                                                      ║
+  ║  TO SET IT UP:                                                       ║
+  ║  1. Find an image you like (person in front of computers/screens)   ║
+  ║  2. In your gabayae/gabayae repo, create a folder called "assets"   ║
+  ║  3. Upload the image there (e.g. assets/hero.png)                   ║
+  ║  4. The URL below will automatically work:                           ║
+  ║     https://raw.githubusercontent.com/gabayae/gabayae/main/assets/hero.png ║
+  ║                                                                      ║
+  ║  TO CHANGE THE IMAGE LATER: just replace the file in assets/        ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f63.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/gabayae/gabayae/main/assets/hero.png" alt="AI researcher at work"/>
 
 ## `> whoami`
 
@@ -143,15 +147,14 @@ Exploring **asymmetric structures** governing convergence, metric generalization
   ║  IF STATS CARDS SHOW "ERROR" OR DON'T LOAD:                    ║
   ║                                                                  ║
   ║  The free github-readme-stats.vercel.app is rate-limited.       ║
-  ║  FIX: Deploy your own instance (takes 2 minutes):               ║
+  ║  FIX: Deploy your own instance (takes 2 minutes, free):        ║
   ║                                                                  ║
   ║  1. Fork https://github.com/anuraghazra/github-readme-stats    ║
-  ║  2. Go to https://vercel.com and import your fork               ║
-  ║  3. Add env variable: PAT_1 = your GitHub personal access token ║
-  ║  4. Deploy — you'll get a URL like:                              ║
+  ║  2. Go to https://vercel.com → Import your fork                ║
+  ║  3. Add env variable: PAT_1 = a GitHub personal access token   ║
+  ║  4. Deploy → you get a URL like:                                ║
   ║     https://github-readme-stats-gabayae.vercel.app              ║
-  ║  5. Replace all "github-readme-stats.vercel.app" below          ║
-  ║     with your custom URL.                                        ║
+  ║  5. Replace "github-readme-stats.vercel.app" below with it.    ║
   ║                                                                  ║
   ║  This permanently fixes the loading issue.                       ║
   ╚══════════════════════════════════════════════════════════════════╝
