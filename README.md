@@ -17,9 +17,7 @@
 
 <br/>
 
-<!-- Side image: "Night Chill" — person working at desk with screens -->
-<!-- Hosted on GitHub's own CDN via Anmol-Baranwal/Cool-GIFs-For-GitHub (permanent) -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="person working at computer screens"/>
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh0ZXJyaTNpOWs2bm5lMm8xZWF1ZnFkNmFqcnA4Ym8ycXMzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="person working at computer screens"/>
 
 ## `> whoami`
 
