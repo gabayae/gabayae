@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     DR. YAÉ ULRICH GABA — GitHub Profile README
-     ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- Animated Header -->
+<!-- Animated header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Dr.%20Ya%C3%A9%20Ulrich%20Gaba&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Pure%20Mathematician%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Computational%20Thinker&descAlignY=52&descAlign=50&descSize=18" />
 
 <!-- Typing SVG -->
@@ -12,7 +8,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile views & followers -->
 <img src="https://komarev.com/ghpvc/?username=gabayae&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 &nbsp;
 <a href="https://github.com/gabayae?tab=followers"><img src="https://img.shields.io/github/followers/gabayae?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="GitHub followers" /></a>
@@ -21,23 +17,9 @@
 
 <br/>
 
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  SIDE IMAGE — SELF-HOSTING INSTRUCTIONS                             ║
-  ║                                                                      ║
-  ║  The image below is hosted in YOUR OWN REPO so it never breaks.     ║
-  ║                                                                      ║
-  ║  TO SET IT UP:                                                       ║
-  ║  1. Find an image you like (person in front of computers/screens)   ║
-  ║  2. In your gabayae/gabayae repo, create a folder called "assets"   ║
-  ║  3. Upload the image there (e.g. assets/hero.png)                   ║
-  ║  4. The URL below will automatically work:                           ║
-  ║     https://raw.githubusercontent.com/gabayae/gabayae/main/assets/hero.png ║
-  ║                                                                      ║
-  ║  TO CHANGE THE IMAGE LATER: just replace the file in assets/        ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
-<img align="right" width="340" src="https://raw.githubusercontent.com/gabayae/gabayae/main/assets/hero.png" alt="AI researcher at work"/>
+<!-- Side image: "Night Chill" — person working at desk with screens -->
+<!-- Hosted on GitHub's own CDN via Anmol-Baranwal/Cool-GIFs-For-GitHub (permanent) -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="person working at computer screens"/>
 
 ## `> whoami`
 
@@ -62,7 +44,7 @@ mission: Turning abstract ideas into robust algorithms,
 
 ---
 
-## 🔬 Researcher Profile
+## 🔬 Researcher profile
 
 <div align="center">
 
@@ -85,7 +67,7 @@ I'm an AI/ML researcher with a deep mathematical background, working at the inte
 
 ---
 
-## 📄 Featured Research
+## 📄 Featured research
 
 <div align="center">
 
@@ -114,11 +96,11 @@ Exploring **asymmetric structures** governing convergence, metric generalization
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & technologies
 
 <div align="center">
 
-#### Languages & Scientific Computing
+#### Languages & scientific computing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -140,46 +122,35 @@ Exploring **asymmetric structures** governing convergence, metric generalization
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub analytics
 
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  IF STATS CARDS SHOW "ERROR" OR DON'T LOAD:                    ║
-  ║                                                                  ║
-  ║  The free github-readme-stats.vercel.app is rate-limited.       ║
-  ║  FIX: Deploy your own instance (takes 2 minutes, free):        ║
-  ║                                                                  ║
-  ║  1. Fork https://github.com/anuraghazra/github-readme-stats    ║
-  ║  2. Go to https://vercel.com → Import your fork                ║
-  ║  3. Add env variable: PAT_1 = a GitHub personal access token   ║
-  ║  4. Deploy → you get a URL like:                                ║
-  ║     https://github-readme-stats-gabayae.vercel.app              ║
-  ║  5. Replace "github-readme-stats.vercel.app" below with it.    ║
-  ║                                                                  ║
-  ║  This permanently fixes the loading issue.                       ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  If stats cards show errors, deploy your own free Vercel instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Import to https://vercel.com with env PAT_1 = your GitHub token
+  3. Replace "github-readme-stats.vercel.app" below with your URL
 -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabayae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabayae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA&cache_seconds=86400" alt="GitHub stats" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabayae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabayae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
 
 <br/><br/>
 
 <!-- Streak: using demolab (herokuapp is dead since 2022) -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=gabayae&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6F00&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=gabayae&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6F00&currStreakLabel=A78BFA" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabayae&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6F00&area=true&area_color=302b63&hide_border=true" width="90%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabayae&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6F00&area=true&area_color=302b63&hide_border=true" width="90%" alt="Activity graph" />
 
 </div>
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 What I'm working on
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -187,16 +158,16 @@ Exploring **asymmetric structures** governing convergence, metric generalization
 ├──────────────────────────────────────────────────────────┤
 │  ◻ Advanced AI Professional Certification                │
 │  ◻ TensorFlow Developer Certificate                      │
-│  ◻ Theory-driven ML Research Program                     │
+│  ◻ Theory-driven ML research program                     │
 │  ◻ New synergies: Topology × Reinforcement Learning      │
-│  ◻ Building an AI Start-up & Incubator                   │
+│  ◻ Building an AI start-up & incubator                   │
 │  ◻ Designing ML curricula & foundational notebooks       │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🌐 Scholarly Identities & Connect
+## 🌐 Scholarly identities & connect
 
 <div align="center">
 
@@ -212,7 +183,7 @@ Exploring **asymmetric structures** governing convergence, metric generalization
 
 ---
 
-## 🧠 Fun Facts
+## 🧠 Fun facts
 
 <div align="center">
 
